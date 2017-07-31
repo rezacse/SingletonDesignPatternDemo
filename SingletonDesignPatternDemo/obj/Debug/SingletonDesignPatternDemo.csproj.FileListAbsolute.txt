@@ -1,0 +1,5 @@
+D:\DevResources\_github\SingletonDesignPatternDemo\SingletonDesignPatternDemo\bin\Debug\SingletonDesignPatternDemo.exe
+D:\DevResources\_github\SingletonDesignPatternDemo\SingletonDesignPatternDemo\bin\Debug\SingletonDesignPatternDemo.pdb
+D:\DevResources\_github\SingletonDesignPatternDemo\SingletonDesignPatternDemo\obj\Debug\SingletonDesignPatternDemo.csprojResolveAssemblyReference.cache
+D:\DevResources\_github\SingletonDesignPatternDemo\SingletonDesignPatternDemo\obj\Debug\SingletonDesignPatternDemo.exe
+D:\DevResources\_github\SingletonDesignPatternDemo\SingletonDesignPatternDemo\obj\Debug\SingletonDesignPatternDemo.pdb
